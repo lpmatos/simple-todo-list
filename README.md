@@ -27,7 +27,7 @@ This **To-Do** list will allow you to add elements, remove a specific element an
 
 In order to maintain data integrity, I'm storing everything locally using **localStorage**.
 
-![Alt text](docs/TO-DO.png?raw=true "To-Do List")
+![Alt text](docs/LIST.png?raw=true "To-Do List")
 
 ## Pre-Requisites
 
